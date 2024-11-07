@@ -7,7 +7,7 @@ int main() {
     printf("Quantos termos voce deseja? ");
     scanf("%d", &n);
     
-    printf("Sequência de Fibonacci até o termo %d:\n", n);
+    printf("Sequencia de Fibonacci ate o termo %d:\n", n);
     
     for (int i = 0; i < n; i++) {
         if (i == 0) {
